@@ -18,6 +18,14 @@
 
 ![And邏輯圖](https://github.com/user-attachments/assets/379870fb-0cc5-4ed1-a074-a09e06e347e1)
 
+**Or**
+![Or邏輯圖](Or邏輯圖-1.jpg)
 
+**Xor**
+![Xor邏輯圖](Xor邏輯圖.jpg)
 
+**Mux**
+![Mux邏輯圖](Mux邏輯圖.jpg)
 
+**DMux**
+![DMux邏輯圖](DMux邏輯圖.jpg)
