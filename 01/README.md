@@ -1,7 +1,6 @@
-
 # 第一章習題
 
-存放邏輯電路圖
+**存放邏輯圖**
 
 
 ## 作業
@@ -11,7 +10,14 @@
 
 ## 邏輯圖
 
-## Not
-![]()
+**Not**
+
+![Not邏輯圖](https://github.com/user-attachments/assets/9cc7d6df-dc88-4a1b-9135-3a6f8f621d33)
+
+**And**
+
+![And邏輯圖](https://github.com/user-attachments/assets/379870fb-0cc5-4ed1-a074-a09e06e347e1)
+
+
 
 
