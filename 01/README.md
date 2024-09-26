@@ -1,23 +1,18 @@
 
-# Project Title
+# 第一章習題
 
-A brief description of what this project does and who it's for
+存放邏輯電路圖
 
 
-## Tech Stack
+## 周次
 
-**Client:** React, Redux, TailwindCSS
+**第一周：** Not, And, Or, Xor, Mux, DMux
 
-**Server:** Node, Express
+**第二周：** Not16, And16, Or16, Mux16, Or8Way, Mux4Way16, Mux8Way16, DMux4Way, DMux8Way
 
 
 ## Usage/Examples
 
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
+```
 ```
 
