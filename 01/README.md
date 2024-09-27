@@ -8,7 +8,7 @@
 * **第二週(09/19)作業 :** NOT16、AND16、OR16、Mux16、OR8Way、Mux4Way16、Mux8Way16、DMux4Way、DMux8Way
 
 
-## 邏輯圖
+## 第一周邏輯圖
 
 **Not**
 
@@ -33,3 +33,42 @@
 **DMux**
 
 ![DMux邏輯圖](DMux邏輯圖.jpg)
+
+**Not16**
+
+![Not16邏輯圖](Not16邏輯圖.jpg)
+
+**And16**
+
+![And16邏輯圖](And16邏輯圖.jpg)
+
+**Or16**
+
+![Or16邏輯圖](Or16邏輯圖.jpg)
+
+**Mux16**
+
+![Mux16邏輯圖](Mux16邏輯圖.jpg)
+
+**Or8Way**
+
+![Or8way](Or8ways邏輯圖.jpg)
+
+**Mux4Way16**
+
+![Mux4way16邏輯圖](Mux4way16邏輯圖.jpg)
+
+**Mux8Way16**
+
+![Mux8way16邏輯圖](Mux8way16邏輯圖.jpg)
+
+**DMux4Way**
+
+![DMux4way邏輯圖](DMux4way邏輯圖.jpg)
+
+**DMux8Way**
+
+![DMux8way邏輯圖](DMux8way邏輯圖.jpg)
+
+
+
