@@ -10,3 +10,17 @@
 
 ## 邏輯圖
 **HalfAdder**
+
+![alt text](HalfAdder.jpg)
+
+**FullAdder**
+
+![alt text](Fulladder.jpg)
+
+**Add16**
+
+![alt text](<Add16 (1)-1.jpg>)
+
+**Inc16**
+
+![alt text](Inc16.jpg)
